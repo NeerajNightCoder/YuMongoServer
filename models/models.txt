@@ -1,0 +1,61 @@
+//User model
+const UserSchema=mongoose.Schema({
+    shortid:{type:String,default:shortid.generate},
+    name:String,
+    email:String,
+    phone:{type:String,unique:true},
+    role:{type:String,enum:["user","manager"],default:'user'},
+    code:String,
+    password:{type:String,select:false},
+    resetPasswordToken:String,
+    resetPasswordExpire:Date,
+    order:{type:[String],default:["123"]},
+    addedAt:{type:Date,default:Date.now}
+})
+
+
+//Doctor model
+const DoctorSchema=mongoose.Schema({
+    shortid: {type:String,default:shortid.generate},
+    name:String,
+    photo:String,
+    education:String,
+    specailisation:{type:String,index:true},
+    experience:Number,
+    normalFee:Number,
+    recFee:Number,
+    recDays:Number, 
+    hospital:{type:mongoose.Schema.ObjectId,ref:'Hospital',required:true},
+    city:{type:[String],index:true},
+    addedAt:{type:Date,default:Date.now}
+})
+
+//Hospital model
+const HospitalSchema=mongoose.Schema({
+    shortid:{type:String,default:shortid.generate},
+    name:String,
+    photo:String,
+    location:String,
+    doctors:[{
+        docId:String,
+        day:[String],
+        seat:Number,
+        dayUnavl:[Number]
+    }],
+    city:{type:String,index:true},
+    addedAt:{type:Date,default:Date.now}
+})
+
+
+
+//Appointment model
+const AppointmentSchema=mongoose.Schema({
+    shortid:{type:String,default:shortid.generate},
+    user:{type:mongoose.Schema.ObjectId,ref:'User',required:true},
+    doctor:{type:mongoose.Schema.ObjectId,ref:'Doctor',required:true},
+    hospital:{type:mongoose.Schema.ObjectId,ref:'Hospital',required:true},
+    cost:Number,
+    time:{type:Date,default:Date.now},
+    status:{type:String,enum:["confirmed","cancelled","awaitingPayment"],default:"awaitingPayment"},
+    createdAt:{type:Date,default:Date.now}
+})

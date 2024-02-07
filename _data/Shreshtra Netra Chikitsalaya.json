@@ -1,0 +1,50 @@
+[
+        {
+            "name": "Dr. Naveen kumar",
+            "specialisation": "Eye Surgeon",
+            "normalFee": "200",
+            "hospital": "5f5fb483fadcf11e947569d9",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[]},
+            {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]}
+            ]
+        },
+        {
+            "name": "Dr. R.P. Srivastava ",
+            "specialisation": "Eye Expert",
+            "normalFee": "200",
+            "hospital": "5f5fb483fadcf11e947569d9",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[]},
+            {"day":"1","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]}
+            ]
+        },
+        {
+            "name": "Dr. Arvind Ram ",
+            "specialisation": "Eye Expert",
+            "normalFee": "200",
+            "hospital": "5f5fb483fadcf11e947569d9",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[]},
+            {"day":"1","timeSlots":[]},
+            {"day":"2","timeSlots":[]},
+            {"day":"3","timeSlots":[]},
+            {"day":"4","timeSlots":[]},
+            {"day":"5","timeSlots":[]},
+            {"day":"6","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"}]}
+            ]
+        }
+]

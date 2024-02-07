@@ -1,0 +1,35 @@
+[{"name":"The 7 Palms Hospital & Research Centre"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"Katahal Modh & Gumla Road, Bajra, Lalgutwa, Ranchi, Jharkhand 834005"
+    ,"city":"Ranchi"
+    },
+    {"name":"Raj Trust Hospital"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"Satranji, Ranchi- Khunti Rd, Near Satranji Bazar, P.O.- Hulhundu, P.S.- Dhurwa, Ranchi, Jharkhand 835221"
+    ,"city":"Ranchi"
+    },
+    {"name":"Shreshtra Netra Chikitsalaya"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"Main Rd, near allhabad bank, Lohar Kulli, Saraidhella, Jharkhand 828127"
+    ,"city":"Dhanbad"
+    },
+    {"name":"JIMS Hospital"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"Police Station Saraidhela Post Office ISM, Lohar Kulli, Dhanbad, Jharkhand 828127"
+    ,"city":"Dhanbad"
+    },
+    {"name":"Balajee Children Hospital"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"beside Big Bazar, Sahayogi Nagar Sector II, Saraidhella, Jharkhand 828127"
+    ,"city":"Dhanbad"
+    },
+    {"name":"R.C.Hazra Memorial Hospital"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"Telephone Exchange Rd, Dhanbad, Jharkhand 826001"
+    ,"city":"Dhanbad"
+    },
+    {"name":"NICHITPUR HOSPITAL AND RESEARCH CENTER PVT LTD., NHRC"
+    ,"photo":"http://firebase.com/YuMedic/photos/hospitals/asarfi.jpg"
+    ,"location":"new keshalpur colony,nichitpur,dhanbad,jharkhand 828114"
+    ,"city":"Dhanbad"
+    }]

@@ -1,0 +1,66 @@
+[
+        {
+            "name": "Dr. A. TALPATRA",
+            "specialisation": "Child Specialist",
+            "normalFee": "300",
+            "hospital": "5f5fb483fadcf11e947569db",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"1","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"}]}
+            ]
+        },
+        {
+            "name": "Dr. AVINASH KUMAR",
+            "specialisation": "Child Specialist",
+            "normalFee": "200",
+            "hospital": "5f5fb483fadcf11e947569db",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"1","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"}]}
+            ]
+        },
+        {
+            "name": "Dr. AMIT KHAITAN",
+            "specialisation": "Dental",
+            "normalFee": "200",
+            "hospital": "5f5fb483fadcf11e947569db",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"}]},
+            {"day":"1","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"}]}
+            ]
+        },
+        {
+            "name": "DR. NITYANAND",
+            "specialisation": "Child Specialist",
+            "normalFee": "300",
+            "hospital": "5f5fb483fadcf11e947569db",
+            "city": "dhanbad",
+            "ds":[
+            {"day":"0","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"1","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"2","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"3","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"4","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"5","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]},
+            {"day":"6","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"}]}
+            ]
+        }
+]

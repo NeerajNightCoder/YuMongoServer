@@ -1,0 +1,495 @@
+[
+    {
+        "name": "Dr. H.L. MAHATO",
+        "specialisation": "Resident Medical Officer ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]}
+      ]
+    },
+    {
+        "name": "Dr. S.S. TIWARI",
+        "specialisation": "Resident Medical Officer ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]}
+      ]
+    },
+    {
+        "name": "Dr. S.K. CHATTERJEE",
+        "specialisation": "Resident Medical Officer ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]}
+      ]
+    },
+    {
+        "name": "Dr. B.K.P. SINGH",
+        "specialisation": "Resident Medical Officer ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. KALYAN MUKHERJEE",
+        "specialisation": "Resident Medical Officer ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. JYOTI RANJAN PRASAD",
+        "specialisation": "Pathologist",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]}
+      ]
+    },
+    {
+        "name": "Dr. KONARK MUKHERJEE",
+        "specialisation": "Dental",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. SUMIT VERMA",
+        "specialisation": "Dental",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]}
+      ]
+    },
+    {
+        "name": "Dr. ALOK KUMAR",
+        "specialisation": "Eye Specialist",
+        "normalFee": "200",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. P.K. ROY",
+        "specialisation": "Anaesthetist",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"},{"time":"8:15 PM"},{"time":"8:30 PM"},{"time":"8:45 PM"},{"time":"9:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. ASHWANI KUMAR",
+        "specialisation": "Anaesthetist",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Prof (Dr) R.N.BHATTACHARYA",
+        "specialisation": "Neurology",
+        "normalFee": "700",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. MUKESH",
+        "specialisation": "Bones and Joints",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. J. PATEL",
+        "specialisation": "Bones and Joints",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. D.P. BHUSHAN",
+        "specialisation": "Bones and Joints",
+        "normalFee": "500",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. R.TIWARY",
+        "specialisation": "Gynaecologist ",
+        "normalFee": "200",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. MANISHA MISHRA",
+        "specialisation": "Gynaecologist ",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. S.P. GUPTA",
+        "specialisation": "Resident Medical Officer /Nephro",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"},{"time":"3:15 PM"},{"time":"3:30 PM"},{"time":"3:45 PM"},{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. U.N.SINGH",
+        "specialisation": "Resident Medical Officer  - PAEDIATRICS ",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"4:00 PM"},{"time":"4:15 PM"},{"time":"4:30 PM"},{"time":"4:45 PM"},{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"},{"time":"7:15 PM"},{"time":"7:30 PM"},{"time":"7:45 PM"},{"time":"8:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. R. KUMAR",
+        "specialisation": "Child Specialist",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. JITENDRA",
+        "specialisation": "Child Specialist",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. Sk. H. RAHMAN",
+        "specialisation": "Child Specialist",
+        "normalFee": "250",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. VIJAY KUMAR",
+        "specialisation": "Child Specialist",
+        "normalFee": "600",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. S. PATNAIK",
+        "specialisation": "Child Specialist",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"8:00 AM"},{"time":"8:15 AM"},{"time":"8:30 AM"},{"time":"8:45 AM"},{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. PURNIMA KARKETTA",
+        "specialisation": "General Physician",
+        "normalFee": "450",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"1","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"2","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"3","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"4","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"5","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]},
+        {"day":"6","timeSlots":[{"time":"9:00 AM"},{"time":"9:15 AM"},{"time":"9:30 AM"},{"time":"9:45 AM"},{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"}]}
+        ]
+    },
+    {
+        "name": "Dr. A.K. VERMA",
+        "specialisation": "General Physician",
+        "normalFee": "450",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"},{"time":"2:15 PM"},{"time":"2:30 PM"},{"time":"2:45 PM"},{"time":"3:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. K.S .NARAYAN",
+        "specialisation": "Gastroenterologist & Hepatologist",
+        "normalFee": "700",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    },
+    {
+        "name": "Dr. U.K. PANDEY",
+        "specialisation": "General Surgeon",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"12:00 PM"},{"time":"12:15 PM"},{"time":"12:30 PM"},{"time":"12:45 PM"},{"time":"1:00 PM"},{"time":"1:15 PM"},{"time":"1:30 PM"},{"time":"1:45 PM"},{"time":"2:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. R.L. PRASAD",
+        "specialisation": "General Surgeon / Laproscopic",
+        "normalFee": "220",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[{"time":"5:00 PM"},{"time":"5:15 PM"},{"time":"5:30 PM"},{"time":"5:45 PM"},{"time":"6:00 PM"},{"time":"6:15 PM"},{"time":"6:30 PM"},{"time":"6:45 PM"},{"time":"7:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. T.K. KARAMKER",
+        "specialisation": "General Surgeon / Laproscopic",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"1","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"2","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"3","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"4","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"5","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]},
+        {"day":"6","timeSlots":[{"time":"10:00 AM"},{"time":"10:15 AM"},{"time":"10:30 AM"},{"time":"10:45 AM"},{"time":"11:00 AM"},{"time":"11:15 AM"},{"time":"11:30 AM"},{"time":"11:45 AM"},{"time":"12:00 PM"}]}
+        ]
+    },
+    {
+        "name": "Dr. A.K. THAKUR",
+        "specialisation": "MS (Eye Specialist and ENT)",
+        "normalFee": "350",
+        "hospital": "5f43f5a86e2fc1623cda5cf2",
+        "city": "dhanbad",
+        "ds":[
+        {"day":"0","timeSlots":[]},
+        {"day":"1","timeSlots":[]},
+        {"day":"2","timeSlots":[]},
+        {"day":"3","timeSlots":[]},
+        {"day":"4","timeSlots":[]},
+        {"day":"5","timeSlots":[]},
+        {"day":"6","timeSlots":[]}
+        ]
+    }]
